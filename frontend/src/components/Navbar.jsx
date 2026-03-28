@@ -25,12 +25,7 @@ function Navbar() {
           </div>
         </div>
 
-        <div className="hidden md:flex items-center gap-2 bg-teal-500/10 border border-teal-500/20 rounded-full px-3 py-1">
-          <Zap size={11} className="text-teal-400" />
-          <span className="text-teal-300 text-xs font-medium">
-            Powered by Groq AI
-          </span>
-        </div>
+        
 
         <div className="flex items-center gap-2">
           <div className="w-1.5 h-1.5 bg-teal-400 rounded-full animate-pulse" />
